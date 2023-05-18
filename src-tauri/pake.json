@@ -2,9 +2,9 @@
   "windows": [
     {
       "url": "https://weread.qq.com/",
-      "transparent": true,
+      "transparent": false,
       "fullscreen": false,
-      "width": 1200,
+      "width": 1280,
       "height": 780,
       "resizable": true,
       "url_type": "web"
